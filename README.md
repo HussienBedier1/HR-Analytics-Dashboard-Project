@@ -21,7 +21,7 @@ The analysis combines **Power Query** for data cleaning, **DAX** for KPI calcula
 - [Dataset](#-dataset)  
 - [Project Steps](#-project-steps)  
 - [Dashboard Preview](#-dashboard-preview)  
-- [Tools & Technologies](#-tools--technologies)  
+- [Tools & Technologies](#tools--technologies)  
 - [Key Insights](#-key-insights)  
 - [Conclusion](#-conclusion)  
 - [Contact Me](#-contact-me)  
@@ -32,7 +32,7 @@ The analysis combines **Power Query** for data cleaning, **DAX** for KPI calcula
 ## 📂 Dataset
 The analysis is based on a detailed **HR dataset** containing employee information across various attributes like demographics, job roles, performance ratings, and tenure.  
 
-[📥 Download PBIX File](#) *( HR-Analytics-Dashboard-Project/HR-Analytics.pbix at main · HussienBedier1/HR-Analytics-Dashboard-Project)*
+[📥 Download PBIX File](#) *(https://github.com/HussienBedier1/HR-Analytics-Dashboard-Project/blob/main/HR-Analytics.pbix)*
 
 ---
 
@@ -108,7 +108,7 @@ This **HR Analytics Dashboard** provides a powerful tool for understanding workf
 ---
 
 ## 📬 Contact Me  
-💼 **Hussien Bedier portfolio**  
+💼 **[Hussien Bedier portfolio](https://hussien-bedier.my.canva.site/hussien-bedier-portfolio)**  
 📧 Email: [hussienbedier10@gmail.com](mailto:hussienbedier10@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hussien-bedier-34a778231/) | [GitHub](https://github.com/HussienBedier1)
 ---
