@@ -21,7 +21,7 @@ The analysis combines **Power Query** for data cleaning, **DAX** for KPI calcula
 - [Dataset](#-dataset)  
 - [Project Steps](#-project-steps)  
 - [Dashboard Preview](#-dashboard-preview)  
-- [Tools & Technologies](#tools--technologies)  
+- [Tools & Technologies](#-tools--technologies)  
 - [Key Insights](#-key-insights)  
 - [Conclusion](#-conclusion)  
 - [Contact Me](#-contact-me)  
@@ -62,8 +62,7 @@ The analysis is based on a detailed **HR dataset** containing employee informati
 ---
 
 ## 📸 Dashboard Preview
-*(Upload your dashboard screenshots to GitHub and replace the links below)*  
-
+  
 ### Overview Page  
 ![Overview]( https://github.com/HussienBedier1/HR-Analytics-Dashboard-Project/blob/main/Overview.png)  
 
